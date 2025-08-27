@@ -1,5 +1,7 @@
 # Hi, I'm Adir Gelkop
 
+**LinkedIn**: [Adir Gelkop](https://www.linkedin.com/in/adir-gelkop/) | **Portfolio**: [StrongGrip](https://app--stron-grip-2c80b785.base44.app/)
+
 ## 🎯 Solutions Architect & Technology Innovator
 - **Innovation Focus**: LLMs, RAG Systems, Machine Learning & Deep Learning
 - **Impact**: Building next-generation AI solutions that bridge research with real-world applications
@@ -23,8 +25,6 @@
 </div>
 
 ## 🌐 Connect With Me
-- **LinkedIn**: [Adir Gelkop](https://www.linkedin.com/in/adir-gelkop/)
-- **Portfolio**: [StrongGrip](https://app--stron-grip-2c80b785.base44.app/)
 - **Collaboration**: Open to discussing AI/ML/DL projects and technical partnerships
 
 ---
