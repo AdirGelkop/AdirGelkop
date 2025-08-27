@@ -1,4 +1,5 @@
 # Hi, I'm Adir Gelkop
+
 ## 🎯 Solutions Architect & Technology Innovator
 - 🎓 **Academic Journey**: B.Sc Computer Science (HIT) | Currently pursuing M.Sc Computer Science (Reichman University)
 - 🏗️ **Architecture Expertise**: Designing scalable solutions at the intersection RF & Network technologies
@@ -7,7 +8,7 @@
 
 ## 🛠️ Technology Stack
 **AI & Machine Learning**: Large Language Models | RAG Architecture | Deep Learning | Neural Networks  
-**Cloud Platforms**: AWS | NVIDIA AI Platform
+**Cloud Platforms**: AWS | NVIDIA AI Platform  
 **Specializations**: Network Architecture | RF Technologies | MLOps  
 **Domains**: Computer Vision | Natural Language Processing | Recommendation Systems
 
@@ -16,24 +17,9 @@
 - 🎯 **Architecting Communication Solutions**: Transforming complex technical challenges into end-to-end communication systems
 - 📚 **Academic Research**: Excited to contribute to the advancement of AI/ML methodologies through thesis research soon
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdirGelkop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdirGelkop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=AdirGelkop&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
-## 🤖 AI in Action
-
-<div align="center">
-
-![AI Animation](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
-![Neural Network](https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif)
 
 </div>
 
@@ -43,7 +29,6 @@
 - 📧 **Collaboration**: Open to discussing AI/ML/DL projects and technical partnerships
 
 ---
-
 <div align="center">
   
 *"At the intersection of academic rigor and entrepreneurial innovation, building the AI solutions of tomorrow"* 
