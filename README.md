@@ -4,11 +4,13 @@
 - 🏗️ **Architecture Expertise**: Designing scalable solutions at the intersection RF & Network technologies
 - 🚀 **Innovation Focus**: LLMs, RAG Systems, Machine Learning & Deep Learning
 - 🌍 **Impact**: Building next-generation AI solutions that bridge research with real-world applications
+
 ## 🛠️ Technology Stack
 **AI & Machine Learning**: Large Language Models | RAG Architecture | Deep Learning | Neural Networks  
 **Cloud Platforms**: AWS | NVIDIA AI Platform
 **Specializations**: Network Architecture | RF Technologies | MLOps  
 **Domains**: Computer Vision | Natural Language Processing | Recommendation Systems
+
 ## 🔬 What I Do
 - 🏢 **Startup Innovation**: Co-founding and building technology ventures that enhance inventory productivity
 - 🎯 **Architecting Communication Solutions**: Transforming complex technical challenges into end-to-end communication systems
@@ -18,11 +20,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adir-gelkop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdirGelkop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adir-gelkop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdirGelkop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=adir-gelkop&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AdirGelkop&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
