@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adir Gelkop
+# Hi, I'm Adir Gelkop
 ## 🎯 Solutions Architect & Technology Innovator
 - 🎓 **Academic Journey**: B.Sc Computer Science (HIT) | Currently pursuing M.Sc Computer Science (Reichman University)
 - 🏗️ **Architecture Expertise**: Designing scalable solutions at the intersection RF & Network technologies
