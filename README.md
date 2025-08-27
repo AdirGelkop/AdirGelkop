@@ -24,7 +24,7 @@
 
 ## 🌐 Connect With Me
 - **LinkedIn**: [Adir Gelkop](https://www.linkedin.com/in/adir-gelkop/)
-- **Portfolio**: [Personal Website](https://app--stron-grip-2c80b785.base44.app/)
+- **Portfolio**: [StrongGrip](https://app--stron-grip-2c80b785.base44.app/)
 - **Collaboration**: Open to discussing AI/ML/DL projects and technical partnerships
 
 ---
