@@ -1,21 +1,20 @@
 # Hi, I'm Adir Gelkop
 
 ## 🎯 Solutions Architect & Technology Innovator
-- **Academic Journey**: B.Sc Computer Science (HIT) | Currently pursuing M.Sc Computer Science (Reichman University)
-- **Architecture Expertise**: Designing scalable solutions at the intersection RF & Network technologies
 - **Innovation Focus**: LLMs, RAG Systems, Machine Learning & Deep Learning
 - **Impact**: Building next-generation AI solutions that bridge research with real-world applications
+- **Architecture Expertise**: Designing scalable solutions at the intersection RF & Network technologies
+- **Academic Journey**: B.Sc Computer Science (HIT) | Currently pursuing M.Sc Computer Science (Reichman University)
 
 ## 🛠️ Technology Stack
-- **AI & Machine Learning**: Large Language Models | RAG Architecture | Deep Learning | Neural Networks  
 - **Cloud Platforms**: AWS | NVIDIA AI Platform  
-- **Specializations**: Network Architecture | RF Technologies | MLOps  
-- **Domains**: Computer Vision | Natural Language Processing | Recommendation Systems
+- **AI & Machine Learning**: LLMs / NLP | RAG Architecture | DL | Neural Networks | Computer Vision
+- **Specializations**: Network Architecture | IP CIDR | RF Technologies | Network Management Systems | M&C Systems
 
 ## 🔬 What I Do
-- **Startup Innovation**: Co-founding and building technology ventures that enhance inventory productivity
-- **Architecting Communication Solutions**: Transforming complex technical challenges into end-to-end communication systems
+- **Startup Innovation**: Co-founding and building technology ventures that enhance inventory & Sales productivity
 - **Academic Research**: Excited to contribute to the advancement of AI/ML methodologies through thesis research soon
+- **Architecting Communication Solutions**: Transforming complex technical challenges into end-to-end communication systems
 
 <div align="center">
 
