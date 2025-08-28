@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 🚀 **LET'S CONNECT** 🚀
+##  **LET'S CONNECT** 
 
 [![LinkedIn](https://img.shields.io/badge/🔥_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF6B35)](https://www.linkedin.com/in/adir-gelkop/)
 [![Portfolio](https://img.shields.io/badge/⚡_StrongGrip_Portfolio-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=4ECDC4)](https://app--stron-grip-2c80b785.base44.app/)
